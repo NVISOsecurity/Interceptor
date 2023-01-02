@@ -5,7 +5,7 @@ Author: [@Cerbersec](https://twitter.com/cerbersec)
 Interceptor is a kernel driver focused on tampering with EDR/AV solutions in kernel space by patching kernel callbacks and hooking IRPs.
 Interceptor was made as part of an internship at NVISO Security's Red Team. The associated blogposts can be found [here (kernel karnage)](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/).
 
-In 2022, Kernel Karnage was presented at [SANS Pen Test HackFest](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2022/), prompting the release of this repository to the public as well as the following demo's:
+In 2022, Kernel Karnage was presented at [SANS Pen Test HackFest](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2022/), prompting the release of this repository to the public as well as the following demos:
 * [https://www.youtube.com/watch?v=QHEzyCGz-rk](https://www.youtube.com/watch?v=QHEzyCGz-rk)
 * [https://www.youtube.com/watch?v=EQqxQk7ytjw](https://www.youtube.com/watch?v=EQqxQk7ytjw)
 
